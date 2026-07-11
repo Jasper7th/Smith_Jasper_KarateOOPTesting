@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t3kV1D4/urI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jassm\\OneDrive\\Desktop\\KarateOOPAssignment\\KarateSchoolSystem\\KarateSchoolSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jassm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Jassm\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Jassm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

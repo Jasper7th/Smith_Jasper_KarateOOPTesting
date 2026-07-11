@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head><meta charset="utf-8"><title>Karate School System Coverage Report</title></head>
+<body>
+<h1>Karate School System - Coverage Report</h1>
+<p><strong>Target:</strong> 100% statement coverage across domain classes.</p>
+<p><strong>Coverage command:</strong> <code>dotnet test --collect:&quot;XPlat Code Coverage&quot;</code></p>
+<table border="1" cellpadding="6" cellspacing="0">
+<tr><th>Area</th><th>Tests Included</th><th>Statement Coverage Goal</th></tr>
+<tr><td>User / Student / Instructor / Administrator</td><td>Valid constructors, invalid inputs, ToString, inheritance behavior</td><td>100%</td></tr>
+<tr><td>KarateClass / Enrollment / Attendance</td><td>Enrollment, duplicate ID, capacity exceeded, future attendance date</td><td>100%</td></tr>
+<tr><td>BeltProgress / Payment</td><td>Progress evaluation, invalid target belt, cash/card processing, negative amount</td><td>100%</td></tr>
+<tr><td>Announcement / Report / SystemSetting</td><td>Creation, invalid inputs, report summary, setting update, unauthorized update</td><td>100%</td></tr>
+<tr><td>Design Patterns</td><td>UserFactory, CashPaymentStrategy, CardPaymentStrategy</td><td>100%</td></tr>
+</table>
+<p>Note: This HTML file documents the intended coverage evidence and the commands used to generate official .NET coverage output. Generate the official collector output locally if the instructor requires a tool-created screenshot or XML report.</p>
+</body>
+</html>

@@ -1,0 +1,11 @@
+C:\Users\Jassm\OneDrive\Desktop\KarateOOPAssignment\KarateSchoolSystem\bin\Debug\net8.0\KarateSchoolSystem.deps.json
+C:\Users\Jassm\OneDrive\Desktop\KarateOOPAssignment\KarateSchoolSystem\bin\Debug\net8.0\KarateSchoolSystem.dll
+C:\Users\Jassm\OneDrive\Desktop\KarateOOPAssignment\KarateSchoolSystem\bin\Debug\net8.0\KarateSchoolSystem.pdb
+C:\Users\Jassm\OneDrive\Desktop\KarateOOPAssignment\KarateSchoolSystem\obj\Debug\net8.0\KarateSchoolSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jassm\OneDrive\Desktop\KarateOOPAssignment\KarateSchoolSystem\obj\Debug\net8.0\KarateSchoolSystem.AssemblyInfoInputs.cache
+C:\Users\Jassm\OneDrive\Desktop\KarateOOPAssignment\KarateSchoolSystem\obj\Debug\net8.0\KarateSchoolSystem.AssemblyInfo.cs
+C:\Users\Jassm\OneDrive\Desktop\KarateOOPAssignment\KarateSchoolSystem\obj\Debug\net8.0\KarateSchoolSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jassm\OneDrive\Desktop\KarateOOPAssignment\KarateSchoolSystem\obj\Debug\net8.0\KarateSchoolSystem.dll
+C:\Users\Jassm\OneDrive\Desktop\KarateOOPAssignment\KarateSchoolSystem\obj\Debug\net8.0\refint\KarateSchoolSystem.dll
+C:\Users\Jassm\OneDrive\Desktop\KarateOOPAssignment\KarateSchoolSystem\obj\Debug\net8.0\KarateSchoolSystem.pdb
+C:\Users\Jassm\OneDrive\Desktop\KarateOOPAssignment\KarateSchoolSystem\obj\Debug\net8.0\ref\KarateSchoolSystem.dll
